@@ -1,0 +1,9 @@
+body {
+	background-color: #8b4411;
+}
+p {
+  font-size: 20px;
+}
+hr {
+    background-color: black; height: 2px; border: none;
+}
